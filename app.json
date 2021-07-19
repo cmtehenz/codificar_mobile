@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "codificar_mobile",
+    "slug": "codificar_mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "codificar_mobile"
+}
